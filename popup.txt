@@ -1,0 +1,7 @@
+
+ O----------------------------O
+ | (0) "exit" to close        |   - PAYOFF MATRIX GENERATOR -
+ | (1) "help" to pop message  |
+ | (2) "load" to import file  |   HINT: try executing  commands in the
+ | (3) "simp" to do simplex   |   given order to avoid unwanted errors
+ O----------------------------O
